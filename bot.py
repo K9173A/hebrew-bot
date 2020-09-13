@@ -6,6 +6,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from log import initialize_logger
 from date_converter import get_hebrew_date
 
+
 initialize_logger()
 load_dotenv()
 
@@ -34,6 +35,7 @@ async def on_message(message: types.Message):
         reply_text = 'Canceled'
     else:
         reply_text = get_hebrew_date(*text.split('/'))
+        # get_gregorian_date
     # else:
     #     reply_text = 'Can\'t recognize specified command. Try /help to start.'
 

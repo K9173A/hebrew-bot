@@ -88,14 +88,19 @@ def from_hebrew_to_gregorian(year, month, day):
 
 def get_hebrew_date(year, month, day):
     data = from_gregorian_to_hebrew(year, month, day)
-    return f'''
-    Year: {data['hy']}
-    Month: {data['hm']}
-    Day: {data['hd']}
-    Hebrew: {data['hebrew']}
-    Events: {",".join(data['events'])}
-    '''
+    return '\n'.join([
+        f'🕎 Year: {data["hy"]}',
+        f'🕎 Month: {data["hm"]}',
+        f'🕎 Day: {data["hd"]}',
+        f'🕎 Hebrew: {data["hebrew"]}',
+        f'🕎 Events: ' + ', '.join(data['events'])
+    ])
 
 
 def get_gregorian_date(year, month, day):
-    pass
+    data = from_hebrew_to_gregorian(year, month, day)
+    return '\n'.join([
+        f'🕎 Year: {data["gy"]}',
+        f'🕎 Month: {data["gm"]}',
+        f'🕎 Day: {data["gd"]}'
+    ])
