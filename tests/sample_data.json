@@ -1,0 +1,367 @@
+{
+  "title": "Hebcal São Paulo December 2020",
+  "date": "2020-12-26T21:25:57.906Z",
+  "location": {
+    "title": "São Paulo, Sao Paulo, Brazil",
+    "city": "São Paulo",
+    "tzid": "America/Sao_Paulo",
+    "latitude": -23.5475,
+    "longitude": -46.63611,
+    "cc": "BR",
+    "country": "Brazil",
+    "admin1": "Sao Paulo",
+    "asciiname": "Sao Paulo",
+    "geo": "geoname",
+    "geonameid": 3448439
+  },
+  "items": [
+    {
+      "title": "Зажигание свечей: 6:24pm",
+      "date": "2020-12-04T18:24:00-03:00",
+      "category": "candles",
+      "title_orig": "Candle lighting",
+      "hebrew": "הדלקת נרות"
+    },
+    {
+      "title": "Глава Ваишлах",
+      "date": "2020-12-05",
+      "category": "parashat",
+      "title_orig": "Parashat Vayishlach",
+      "hebrew": "פרשת וישלח",
+      "leyning": {
+        "1": "Genesis 32:4 - 32:13",
+        "2": "Genesis 32:14 - 32:30",
+        "3": "Genesis 32:31 - 33:5",
+        "4": "Genesis 33:6 - 33:20",
+        "5": "Genesis 34:1 - 35:11",
+        "6": "Genesis 35:12 - 36:19",
+        "7": "Genesis 36:20 - 36:43",
+        "torah": "Genesis 32:4-36:43",
+        "haftarah": "Obadiah 1:1 - 1:21",
+        "maftir": "Genesis 36:40 - 36:43",
+        "triennial": {
+          "1": "Genesis 34:1 - 34:4",
+          "2": "Genesis 34:5 - 34:12",
+          "3": "Genesis 34:13 - 34:17",
+          "4": "Genesis 34:18 - 34:23",
+          "5": "Genesis 34:24 - 34:31",
+          "6": "Genesis 35:1 - 35:11",
+          "7": "Genesis 35:12 - 35:15",
+          "maftir": "Genesis 35:12 - 35:15"
+        }
+      },
+      "link": "https://www.hebcal.com/sedrot/vayishlach-20201205?utm_source=js&utm_medium=api"
+    },
+    {
+      "title": "Авдала (50 мин.): 7:33pm",
+      "date": "2020-12-05T19:33:00-03:00",
+      "category": "havdalah",
+      "title_orig": "Havdalah",
+      "hebrew": "הבדלה"
+    },
+    {
+      "title": "Ханука: 1 Свеча",
+      "date": "2020-12-10T19:11:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 1 Candle",
+      "hebrew": "חנוכה: א׳ נר",
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Ханука: 2 Свечи",
+      "date": "2020-12-11T18:29:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 2 Candles",
+      "hebrew": "חנוכה: ב׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:1 - 7:11",
+        "2": "Numbers 7:12 - 7:14",
+        "3": "Numbers 7:15 - 7:17",
+        "torah": "Numbers 7:1-7:17"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Зажигание свечей: 6:29pm",
+      "date": "2020-12-11T18:29:00-03:00",
+      "category": "candles",
+      "title_orig": "Candle lighting",
+      "hebrew": "הדלקת נרות"
+    },
+    {
+      "title": "Ханука: 3 Свечи",
+      "date": "2020-12-12T19:38:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 3 Candles",
+      "hebrew": "חנוכה: ג׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:18 - 7:20",
+        "2": "Numbers 7:21 - 7:23",
+        "3": "Numbers 7:24 - 7:29",
+        "torah": "Numbers 7:18-7:29"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Глава Ваешев",
+      "date": "2020-12-12",
+      "category": "parashat",
+      "title_orig": "Parashat Vayeshev",
+      "hebrew": "פרשת וישב",
+      "leyning": {
+        "1": "Genesis 37:1 - 37:11",
+        "2": "Genesis 37:12 - 37:22",
+        "3": "Genesis 37:23 - 37:36",
+        "4": "Genesis 38:1 - 38:30",
+        "5": "Genesis 39:1 - 39:6",
+        "6": "Genesis 39:7 - 39:23",
+        "7": "Genesis 40:1 - 40:23",
+        "torah": "Genesis 37:1-40:23",
+        "haftarah": "Zechariah 2:14-4:7 | Shabbat Chanukah",
+        "maftir": "Numbers 7:18 - 7:29 | Chanukah (Day 2)",
+        "triennial": {
+          "1": "Genesis 38:1 - 38:5",
+          "2": "Genesis 38:6 - 38:11",
+          "3": "Genesis 38:12 - 38:14",
+          "4": "Genesis 38:15 - 38:19",
+          "5": "Genesis 38:20 - 38:23",
+          "6": "Genesis 38:24 - 38:26",
+          "7": "Genesis 38:27 - 38:30",
+          "maftir": "Numbers 7:18 - 7:29"
+        }
+      },
+      "link": "https://www.hebcal.com/sedrot/vayeshev-20201212?utm_source=js&utm_medium=api"
+    },
+    {
+      "title": "Авдала (50 мин.): 7:38pm",
+      "date": "2020-12-12T19:38:00-03:00",
+      "category": "havdalah",
+      "title_orig": "Havdalah",
+      "hebrew": "הבדלה"
+    },
+    {
+      "title": "Ханука: 4 Свечи",
+      "date": "2020-12-13T19:13:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 4 Candles",
+      "hebrew": "חנוכה: ד׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:24 - 7:26",
+        "2": "Numbers 7:27 - 7:29",
+        "3": "Numbers 7:30 - 7:35",
+        "torah": "Numbers 7:24-7:35"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Ханука: 5 Свечей",
+      "date": "2020-12-14T19:14:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 5 Candles",
+      "hebrew": "חנוכה: ה׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:30 - 7:32",
+        "2": "Numbers 7:33 - 7:35",
+        "3": "Numbers 7:36 - 7:41",
+        "torah": "Numbers 7:30-7:41"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Ханука: 6 Свечей",
+      "date": "2020-12-15T19:14:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 6 Candles",
+      "hebrew": "חנוכה: ו׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:36 - 7:38",
+        "2": "Numbers 7:39 - 7:41",
+        "3": "Numbers 7:42 - 7:47",
+        "torah": "Numbers 7:36-7:47"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Ханука: 7 Свечей",
+      "date": "2020-12-16T19:15:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 7 Candles",
+      "hebrew": "חנוכה: ז׳ נרות",
+      "leyning": {
+        "1": "Numbers 28:1 - 28:5",
+        "2": "Numbers 28:6 - 28:10",
+        "3": "Numbers 28:11 - 28:15",
+        "torah": "Numbers 28:1-28:15; 7:42-7:47",
+        "maftir": "Numbers 7:42 - 7:47"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Новый Месяц Тевет",
+      "date": "2020-12-16",
+      "category": "roshchodesh",
+      "title_orig": "Rosh Chodesh Tevet",
+      "hebrew": "ראש חודש טבת",
+      "link": "https://www.hebcal.com/holidays/rosh-chodesh-tevet-2020?utm_source=js&utm_medium=api",
+      "memo": "Beginning of new Hebrew month of Tevet. Tevet is the 10th month of the Hebrew year. Corresponds to December or January on the Gregorian calendar"
+    },
+    {
+      "title": "Ханука: 8 Свечей",
+      "date": "2020-12-17T19:15:00-03:00",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 8 Candles",
+      "hebrew": "חנוכה: ח׳ נרות",
+      "leyning": {
+        "1": "Numbers 7:48 - 7:50",
+        "2": "Numbers 7:51 - 7:53",
+        "3": "Numbers 7:54 - 7:59",
+        "torah": "Numbers 7:48-7:59"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Ханука: 8-ой День",
+      "date": "2020-12-18",
+      "category": "holiday",
+      "subcat": "major",
+      "title_orig": "Chanukah: 8th Day",
+      "hebrew": "חנוכה: יום ח׳",
+      "leyning": {
+        "1": "Numbers 7:54 - 7:56",
+        "2": "Numbers 7:57 - 7:59",
+        "3": "Numbers 7:60 - 8:4",
+        "torah": "Numbers 7:54-8:4"
+      },
+      "link": "https://www.hebcal.com/holidays/chanukah-2020?utm_source=js&utm_medium=api",
+      "memo": "Hanukkah, the Jewish festival of rededication. Also known as the Festival of Lights"
+    },
+    {
+      "title": "Зажигание свечей: 6:33pm",
+      "date": "2020-12-18T18:33:00-03:00",
+      "category": "candles",
+      "title_orig": "Candle lighting",
+      "hebrew": "הדלקת נרות"
+    },
+    {
+      "title": "Глава Микец",
+      "date": "2020-12-19",
+      "category": "parashat",
+      "title_orig": "Parashat Miketz",
+      "hebrew": "פרשת מקץ",
+      "leyning": {
+        "1": "Genesis 41:1 - 41:14",
+        "2": "Genesis 41:15 - 41:38",
+        "3": "Genesis 41:39 - 41:52",
+        "4": "Genesis 41:53 - 42:18",
+        "5": "Genesis 42:19 - 43:15",
+        "6": "Genesis 43:16 - 43:29",
+        "7": "Genesis 43:30 - 44:17",
+        "torah": "Genesis 41:1-44:17",
+        "haftarah": "I Kings 3:15 - 4:1",
+        "maftir": "Genesis 44:14 - 44:17",
+        "triennial": {
+          "1": "Genesis 41:53 - 41:57",
+          "2": "Genesis 42:1 - 42:5",
+          "3": "Genesis 42:6 - 42:18",
+          "4": "Genesis 42:19 - 42:28",
+          "5": "Genesis 42:29 - 42:38",
+          "6": "Genesis 43:1 - 43:7",
+          "7": "Genesis 43:8 - 43:15",
+          "maftir": "Genesis 43:11 - 43:15"
+        }
+      },
+      "link": "https://www.hebcal.com/sedrot/miketz-20201219?utm_source=js&utm_medium=api"
+    },
+    {
+      "title": "Авдала (50 мин.): 7:42pm",
+      "date": "2020-12-19T19:42:00-03:00",
+      "category": "havdalah",
+      "title_orig": "Havdalah",
+      "hebrew": "הבדלה"
+    },
+    {
+      "title": "Пост начинается",
+      "date": "2020-12-25T04:01:00-03:00",
+      "category": "holiday",
+      "subcat": "fast",
+      "title_orig": "Fast begins",
+      "hebrew": "תחילת הצום"
+    },
+    {
+      "title": "Пост 10го Тевета",
+      "date": "2020-12-25",
+      "category": "holiday",
+      "subcat": "fast",
+      "title_orig": "Asara B'Tevet",
+      "hebrew": "עשרה בטבת",
+      "leyning": {
+        "1": "Exodus 32:11 - 32:14",
+        "2": "Exodus 34:1 - 34:3",
+        "3": "Exodus 34:4 - 34:10",
+        "torah": "Exodus 32:11-34:10"
+      },
+      "link": "https://www.hebcal.com/holidays/asara-btevet-20201225?utm_source=js&utm_medium=api",
+      "memo": "Fast commemorating the siege of Jerusalem"
+    },
+    {
+      "title": "Зажигание свечей: 6:36pm",
+      "date": "2020-12-25T18:36:00-03:00",
+      "category": "candles",
+      "title_orig": "Candle lighting",
+      "hebrew": "הדלקת נרות"
+    },
+    {
+      "title": "Глава Ваигаш",
+      "date": "2020-12-26",
+      "category": "parashat",
+      "title_orig": "Parashat Vayigash",
+      "hebrew": "פרשת ויגש",
+      "leyning": {
+        "1": "Genesis 44:18 - 44:30",
+        "2": "Genesis 44:31 - 45:7",
+        "3": "Genesis 45:8 - 45:18",
+        "4": "Genesis 45:19 - 45:27",
+        "5": "Genesis 45:28 - 46:27",
+        "6": "Genesis 46:28 - 47:10",
+        "7": "Genesis 47:11 - 47:27",
+        "torah": "Genesis 44:18-47:27",
+        "haftarah": "Ezekiel 37:15 - 37:28",
+        "maftir": "Genesis 47:25 - 47:27",
+        "triennial": {
+          "1": "Genesis 45:28 - 46:4",
+          "2": "Genesis 46:5 - 46:7",
+          "3": "Genesis 46:8 - 46:11",
+          "4": "Genesis 46:12 - 46:15",
+          "5": "Genesis 46:16 - 46:18",
+          "6": "Genesis 46:19 - 46:22",
+          "7": "Genesis 46:23 - 46:27",
+          "maftir": "Genesis 46:23 - 46:27"
+        }
+      },
+      "link": "https://www.hebcal.com/sedrot/vayigash-20201226?utm_source=js&utm_medium=api"
+    },
+    {
+      "title": "Авдала (50 мин.): 7:45pm",
+      "date": "2020-12-26T19:45:00-03:00",
+      "category": "havdalah",
+      "title_orig": "Havdalah",
+      "hebrew": "הבדלה"
+    }
+  ]
+}
