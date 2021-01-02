@@ -16,14 +16,27 @@ dispatcher = Dispatcher(bot=bot)
 
 @dispatcher.message_handler(commands=['start'])
 async def on_start(message: types.Message) -> None:
+    """
+    Handles /start command. Displays available buttons for actions.
+
+    :param message: message object.
+    :return: answer.
+    """
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    keyboard.add(types.KeyboardButton(text=Action.GET_TODAY_INFORMATION))
-    await message.answer('Hello from HebrewInfoBot! Choose action:', reply_markup=keyboard)
+    keyboard.add(types.KeyboardButton(text=Action.CURRENT_EVENTS))
+    keyboard.add(types.KeyboardButton(text=Action.CURRENT_DATE))
+    await message.answer('Выберите действие:', reply_markup=keyboard)
 
 
 @dispatcher.message_handler()
 async def on_message(message: types.Message) -> None:
-    reply_text = process_action(message.text.lower())
+    """
+    Handles messages from user.
+
+    :param message: message object.
+    :return: answer.
+    """
+    reply_text = process_action(message.text)
     await message.answer(reply_text, reply_markup=types.ReplyKeyboardRemove())
 
 

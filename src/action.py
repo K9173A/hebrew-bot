@@ -4,12 +4,13 @@ State machine of button appearance.
 
 
 class Action:
-    GET_TODAY_INFORMATION = 'Какой сегодня день?'
+    CURRENT_EVENTS = 'События текущего дня'
+    CURRENT_DATE = 'Какой сегодня день?'
 
 
 ACTION_STATE_MAPPER = {
     '1': {
-        'title': Action.GET_TODAY_INFORMATION,
+        'title': Action.CURRENT_EVENTS,
         'next': '1'
     }
 }
