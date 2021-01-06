@@ -3,8 +3,8 @@ import os
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, executor, types
 
-from action import Action
-from api import process_action
+from src.action import Action
+from src.api import process_action
 
 
 load_dotenv()
