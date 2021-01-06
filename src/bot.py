@@ -1,16 +1,12 @@
-import os
-
-from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, executor, types
 
 from src.action import Action
 from src.api import process_action
+from src.env import token, dev_mode
 
 
-load_dotenv()
-
-token = os.getenv('BOT_TOKEN')
-bot = Bot(token=token)
+proxy = None if dev_mode else 'http://proxy.server:3128'
+bot = Bot(token=token, proxy=proxy)
 dispatcher = Dispatcher(bot=bot)
 
 
