@@ -7,7 +7,16 @@ cx_Freeze.setup(
     description='Telegram bot which uses API of hebcal.com',
     options={
         'build_exe': {
-            'include_files': 'src/.env'
+            'include_files': 'src/.env',
+            'excludes': [
+                'lib2to3',
+                'multiprocessing',
+                'test',
+                'tkinter',
+                'unittest',
+                'xml',
+                'xmlrpc'
+            ]
         }
     },
     executables=[cx_Freeze.Executable('src/bot.py')]
