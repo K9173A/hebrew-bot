@@ -50,10 +50,8 @@ def make_request(url: str) -> typing.Dict:
     :param url: URL to be called.
     :returns: dict with response data.
     """
-    proxies = None if dev_mode else {'http': 'http://proxy.server:3128'}
-
     try:
-        response = requests.get(url, proxies=proxies)
+        response = requests.get(url)
     except requests.Timeout:
         return {}
     else:

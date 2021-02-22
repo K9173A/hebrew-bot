@@ -5,8 +5,7 @@ from src.api import process_action
 from src.env import token, dev_mode
 
 
-proxy = None if dev_mode else 'http://proxy.server:3128'
-bot = Bot(token=token, proxy=proxy)
+bot = Bot(token=token)
 dispatcher = Dispatcher(bot=bot)
 
 

@@ -16,7 +16,8 @@ cx_Freeze.setup(
                 'unittest',
                 'xml',
                 'xmlrpc'
-            ]
+            ],
+            'optimize': 2
         }
     },
     executables=[cx_Freeze.Executable('src/bot.py')]
