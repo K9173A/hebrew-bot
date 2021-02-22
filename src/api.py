@@ -6,7 +6,6 @@ import requests
 import typing
 
 from src.action import Action
-from src.env import dev_mode
 
 
 def build_url(service_name: str, **params) -> str:
